@@ -1,5 +1,8 @@
+# 不怎么会用git的我很无奈
 chromedriver/
 dist/
 scr/
+/README.md
+/LICENSE
 /*.ini
 !/*.rar
