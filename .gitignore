@@ -1,5 +1,5 @@
 chromedriver/
 dist/
 scr/
-/.ini
+/*.ini
 !/*.rar
